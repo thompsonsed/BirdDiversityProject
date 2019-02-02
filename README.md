@@ -12,4 +12,5 @@ Note that I have compressed the original map file so that it takes up less space
 ## Contact
 
 samuel.thompson14@ic.ac.uk
+
 thompsonsed@gmail.com
