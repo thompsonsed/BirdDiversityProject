@@ -1,3 +1,6 @@
+data/rasters/0.01MYA_-31m_FINAL.tif
+data/rasters/original/*_reproj.tif
+data/rasters/density_0.01mya.*
 *.DS_Store
 *.idea/*
 *.tif.aux.xml

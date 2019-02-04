@@ -22,7 +22,7 @@
     <layer-tree-layer id="0_01MYA__31m_FINAL20190202185604908" checked="Qt::Unchecked" expanded="1" providerKey="ogr" source="./shapefiles/0.01MYA_-31m_FINAL.shp" name="0.01MYA_-31m_FINAL">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer id="0_01MYA_deBoer_global_1deg_icethickness_compressed_reproj_7721dacc_6f48_45be_9219_070c7c14bd52" checked="Qt::Unchecked" expanded="1" providerKey="gdal" source="./rasters/original/0.01MYA_deBoer_global_1deg_icethickness_compressed_reproj.tif" name="0.01MYA_deBoer_global_1deg_icethickness_compressed_reproj">
+    <layer-tree-layer id="0_01MYA_deBoer_global_1deg_icethickness_compressed_reproj_7721dacc_6f48_45be_9219_070c7c14bd52" checked="Qt::Checked" expanded="1" providerKey="gdal" source="./rasters/original/0.01MYA_deBoer_global_1deg_icethickness_compressed_reproj.tif" name="0.01MYA_deBoer_global_1deg_icethickness_compressed_reproj">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer id="0_01MYA__31m_FINAL20190202183110345" checked="Qt::Unchecked" expanded="1" providerKey="gdal" source="./rasters/0.01MYA_-31m_FINAL.tif" name="0.01MYA_-31m_FINAL">
@@ -51,10 +51,10 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>degrees</units>
     <extent>
-      <xmin>-189</xmin>
-      <ymin>-94.5</ymin>
-      <xmax>189</xmax>
-      <ymax>94.5</ymax>
+      <xmin>-100.70299837925446695</xmin>
+      <ymin>50.96414100486223475</ymin>
+      <xmax>-6.20299837925446695</xmax>
+      <ymax>104.80004051863858194</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -78,9 +78,9 @@
         <legendlayerfile isInOverview="0" layerid="0_01MYA__31m_FINAL20190202185604908" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer checked="Qt::Unchecked" drawingOrder="-1" showFeatureCount="0" name="0.01MYA_deBoer_global_1deg_icethickness_compressed_reproj" open="true">
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" showFeatureCount="0" name="0.01MYA_deBoer_global_1deg_icethickness_compressed_reproj" open="true">
       <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="0_01MYA_deBoer_global_1deg_icethickness_compressed_reproj_7721dacc_6f48_45be_9219_070c7c14bd52" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="0_01MYA_deBoer_global_1deg_icethickness_compressed_reproj_7721dacc_6f48_45be_9219_070c7c14bd52" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer checked="Qt::Unchecked" drawingOrder="-1" showFeatureCount="0" name="0.01MYA_-31m_FINAL" open="true">
