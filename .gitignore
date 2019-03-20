@@ -2,6 +2,7 @@
 data/density/
 data/rasters/historical_coastlines/
 data/shapefiles/historical_coastlines/
+data/rasters/historical_coastlines_compressed/
 data/AvesGlobal.qgs~
 data/rasters/0.01MYA_-31m_FINAL.tif
 data/rasters/original/*_reproj.tif
